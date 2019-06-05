@@ -5,6 +5,6 @@ export const spacing = {
     large: '24px',
     medium: '16px',
     small: '8px',
-    extraSmall: '4px'
+    extraSmall: '2px'
 };
 /* eslint-enable */
