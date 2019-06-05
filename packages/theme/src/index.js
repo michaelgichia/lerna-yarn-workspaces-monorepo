@@ -1,5 +1,6 @@
 /* eslint-disable sort-keys */
 export const spacing = {
+    extraExtraLarge: '64px',
     extraLarge: '32px',
     large: '24px',
     medium: '16px',
